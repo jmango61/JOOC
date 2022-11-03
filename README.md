@@ -1,34 +1,41 @@
 # JOOC 관련 논문 정리
 # Watch Less and Uncover More : Could Navigation Tools Help Users Search and Explore Videos? [Link](https://arxiv.org/abs/2201.03408)
 
-## 개요 
-[선행 연구] 
-‘content preview tools’가 다양한 정보 검색 작업에서 사용자 관련성 판단의 속도와 정확도를 어떻게 향상시키는지 보여주었음.
+## - 개요 
+> **[선행 연구] = ‘content preview tools’** 가 다양한 정보 검색 작업에서 **사용자 관련성 판단의 속도와 정확도를 어떻게 향상**시키는지 보여줌.<br/>
+<br/>
 
-위 논문에서는 새로운 사용자 인터페이스 도구인 ‘콘텐츠 흐름 막대 (the Content Flow Bar’)에 대해 설명함.
-• ‘Content Flow Bar(CFB, 콘텐츠 흐름 막대)’란?
-: 사용자가 인지적으로 강화된 형태의 탐색을 통해, 정보 비디오 내에서 탐색이 용이하도록 관련 조각을 빠르게 식별할 수 있게 설계된 것.
+위 논문에서는 **새로운 사용자 인터페이스 도구인 ‘콘텐츠 흐름 막대 (the Content Flow Bar)'** 에 대해 설명함.
 
--> 의미론적 “snippets”을 제공함으로써 이를 달성함.
-• ‘snippets(스니펫)’이란?
-: 사용자가 비디오 콘텐츠를 빠르게 스캔할 수 있는 의미론적 도구.
--> snippets은 각 비디오 하단 시계열 표시줄에 나타나는 시각적으로 호소력 있는 팝업을 제공.
--> 콘텐츠에서 주제가 어떻게 발전하는지 한 눈에 미리 볼 수 있게 함.
+- **‘Content Flow Bar(CFB, 콘텐츠 흐름 막대)’** 란?<br/>
+: 사용자가 인지적으로 강화된 형태의 탐색을 통해, 정보 비디오 내에서 탐색이 용이하도록 관련 조각을 빠르게 식별할 수 있게 설계된 것.<br/>
 
-• 사용자 연구 수행 목적
-(1) snippets이 비디오 검색에서 사용자 검색 경험을 어떻게 변화시키는지, 
-(2) snippets이 탐색과 정보 찾기를 어떻게 지원하는지를 평가하기 위함.
--> 설문을 통해 사용자들이 컨텐츠 흐름 막대(CFB)가 비디오에서 관련 정보를 찾는 데 유용하다는 결과를 얻음.
-## CCS Concepts
-• 정보 시스템 (Informational systems) -> 사용자 및 대화형 검색 (Users and interactive retrieval) ; 검색 인터페이스 (Search interfaces) ; 정보 추출 (informational extraction) ;
+   -> 의미론적 “snippets”을 제공함으로써 이를 달성함.<br/><br/>
+- **‘snippets(스니펫)’** 이란?<br/>
+: 사용자가 비디오 콘텐츠를 빠르게 스캔할 수 있는 의미론적 도구.<br/>
+
+   -> snippets은 각 비디오 하단 시계열 표시줄에 나타나는 시각적으로 호소력 있는 팝업을 제공.<br/>
+   -> 콘텐츠에서 주제가 어떻게 발전하는지 한 눈에 미리 볼 수 있게 함.<br/><br/>
+- **사용자 연구 수행 목적** <br/><br/>
+    (1) snippets이 비디오 검색에서 사용자 검색 경험을 어떻게 변화시키는지,<br/><br/>
+    (2) snippets이 탐색과 정보 찾기를 어떻게 지원하는지를 평가하기 위함.<br/><br/>
+   -> 설문을 통해 사용자들이 **컨텐츠 흐름 막대(CFB)가 비디오에서 관련 정보를 찾는 데 유용**하다는 결과를 얻음.
+## - CCS Concepts
+• 정보 시스템 (Informational systems) -> 사용자 및 대화형 검색 (Users and interactive retrieval) ;  
+검색 인터페이스 (Search interfaces) ; 정보 추출 (informational extraction) ;   
+
 • 응용 컴퓨팅 (Applied computing) -> 대화형 학습 환경 (Interactive learning environments)
 
-## 키워드
-• 비디오 검색 (video retrieval)
-• 사용자 인터페이스 (users interfaces)
-• 상호작용 설계 (interaction design)
-• 탐색 (navigation)
-• 검색 개방형 교육 (search open education)
+## - 키워드
+• 비디오 검색 (video retrieval)  
+
+• 사용자 인터페이스 (users interfaces)  
+
+• 상호작용 설계 (interaction design)  
+
+• 탐색 (navigation)  
+
+• 검색 개방형 교육 (search open education)  
 ## 1. Introduction
 
 • 정보 검색 작업의 주요 병목 현상 중 하나
