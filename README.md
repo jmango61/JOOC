@@ -19,11 +19,11 @@
 (1) snippets이 비디오 검색에서 사용자 검색 경험을 어떻게 변화시키는지, 
 (2) snippets이 탐색과 정보 찾기를 어떻게 지원하는지를 평가하기 위함.
 -> 설문을 통해 사용자들이 컨텐츠 흐름 막대(CFB)가 비디오에서 관련 정보를 찾는 데 유용하다는 결과를 얻음.
-### CCS Concepts
+## CCS Concepts
 • 정보 시스템 (Informational systems) -> 사용자 및 대화형 검색 (Users and interactive retrieval) ; 검색 인터페이스 (Search interfaces) ; 정보 추출 (informational extraction) ;
 • 응용 컴퓨팅 (Applied computing) -> 대화형 학습 환경 (Interactive learning environments)
 
-### 키워드
+## 키워드
 • 비디오 검색 (video retrieval)
 • 사용자 인터페이스 (users interfaces)
 • 상호작용 설계 (interaction design)
