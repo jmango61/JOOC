@@ -182,5 +182,27 @@ CFB는 충분한 디테일을 제공할 수 있는 가벼운 도구임 !
 • 다음 단계
 : 디자인 원칙과 사용 맥락, 팝업 키워드인 위키화를 추출하기 위한 근간과 함께 CFB 소개
 
+### 3.1 Context of Use
+### 3.2 Content Flow Bar (CFB)
+### 3.3 Wikification to Extract Keywords
 
+## 4. User Evaluation
 
+### 4.1 Controlled User Study
+### 4.2 Goal of Study and Research Questions
+### 4.3 Experimental Design and Procedure
+### 4.4 Participants
+### 4.5 Click Stream and Interaction Log Analysis
+### 4.6 Statistical Analysis
+
+## 5. Effect of CFB User Interaction Behaviours and Perceptions
+### 5.1 Differences Across Tasks
+### 5.2 Time Spent
+### 5.3 Users Activity
+### 5.4 Users Navigation
+### 5.5 Selecting Relevant Content
+### 5.6 Users Perception of the CFB
+
+## 6. Discussion and Conclusions
+## 7. Acknowledgments
+## 8. References
