@@ -1,5 +1,5 @@
 # JOOC 관련 논문 정리
-# Watch Less and Uncover More : Could Navigation Tools Help Users Search and Explore Videos?
+# Watch Less and Uncover More : Could Navigation Tools Help Users Search and Explore Videos? [Link](https://arxiv.org/abs/2201.03408)
 
 ## 개요 
 [선행 연구] 
