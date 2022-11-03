@@ -159,9 +159,7 @@ YouTube Chapters(비디오 세그먼트에 대한 텍스트 제목)도 최근에
 
 사용자 연구는 또한 제안된 지능형 비디오 미리보기 도구에 대해 매우 필요한 사용적합성 평가를 제공하여 정보 비디오 검색에서 탐색 도구의 잠재력을 보여준다.
 
-<p align="center">
-<img width="900" src="https://user-images.githubusercontent.com/100738522/199800180-c1fddd54-32b4-496a-91fa-a5bd8b0d7a59.png" alt="[그림1]">
-</p>
+![그림1](https://user-images.githubusercontent.com/100738522/199810957-98370032-5d88-4a42-83c6-a94e2c94f075.png)
 
 [그림 1] CFB가 통합된 플랫폼(X5Learn)으로, 검색 시 비디오와 PDF 문서에 모두 액세스 가능.
 ※ 결과
@@ -195,6 +193,10 @@ CFB는 충분한 디테일을 제공할 수 있는 가벼운 도구임 !
 : 디자인 원칙과 사용 맥락, 팝업 키워드인 위키화를 추출하기 위한 근간과 함께 CFB 소개
 
 ### 3.1 Context of Use
+
+![그림2](https://user-images.githubusercontent.com/100738522/199810744-55e0586f-75be-4f96-9185-f4feaac2922d.png)
+
+
 ### 3.2 Content Flow Bar (CFB)
 ### 3.3 Wikification to Extract Keywords
 
@@ -203,6 +205,10 @@ CFB는 충분한 디테일을 제공할 수 있는 가벼운 도구임 !
 
 ### 4.1 Controlled User Study
 ### 4.2 Goal of Study and Research Questions
+
+![그림3](https://user-images.githubusercontent.com/100738522/199811141-773b05cd-76af-4021-9030-954860446695.png)
+
+
 ### 4.3 Experimental Design and Procedure
 ### 4.4 Participants
 ### 4.5 Click Stream and Interaction Log Analysis
@@ -211,11 +217,19 @@ CFB는 충분한 디테일을 제공할 수 있는 가벼운 도구임 !
 ---
 ## 5. Effect of CFB User Interaction Behaviours and Perceptions
 ### 5.1 Differences Across Tasks
+
+![표 1](https://user-images.githubusercontent.com/100738522/199811276-c10f521e-431d-4ca5-9ec7-5b7bab9ca375.png)
+![그림4](https://user-images.githubusercontent.com/100738522/199811359-36158c8c-409e-4c19-a81d-2d272c46b0d4.png)
+
+
 ### 5.2 Time Spent
 ### 5.3 Users Activity
 ### 5.4 Users Navigation
 ### 5.5 Selecting Relevant Content
 ### 5.6 Users Perception of the CFB
+
+![그림5](https://user-images.githubusercontent.com/100738522/199811458-2b684895-b266-4b53-90fb-52e100643e01.png)
+
 
 ---
 ## 6. Discussion and Conclusions
