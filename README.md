@@ -5,24 +5,25 @@
 > **[선행 연구] = ‘content preview tools’** 가 다양한 정보 검색 작업에서 **사용자 관련성 판단의 속도와 정확도를 어떻게 향상**시키는지 보여줌.<br/>
 <br/>
 
-위 논문에서는 **새로운 사용자 인터페이스 도구인 ‘콘텐츠 흐름 막대 (the Content Flow Bar)'** 에 대해 설명함.
+위 논문에서는 **새로운 사용자 인터페이스 도구인 ‘콘텐츠 흐름 막대 (the Content Flow Bar)'** 에 대해 설명
 
 - **‘Content Flow Bar(CFB, 콘텐츠 흐름 막대)’** 란?<br/>
-: 사용자가 인지적으로 강화된 형태의 탐색을 통해, 정보 비디오 내에서 탐색이 용이하도록 관련 조각을 빠르게 식별할 수 있게 설계된 것.<br/>
+: 사용자가 인지적으로 강화된 형태의 탐색을 통해,  
+정보 비디오 내에서 탐색이 용이하도록 관련 조각을 빠르게 식별할 수 있게 설계된 것<br/>
 
-   -> 의미론적 “snippets”을 제공함으로써 이를 달성함.<br/><br/>
+   -> 의미론적 “snippets”을 제공함으로써 이를 달성<br/><br/>
 - **‘snippets(스니펫)’** 이란?<br/>
-: 사용자가 비디오 콘텐츠를 빠르게 스캔할 수 있는 의미론적 도구.<br/>
+: 사용자가 비디오 콘텐츠를 빠르게 스캔할 수 있는 의미론적 도구<br/>
 
-   -> snippets은 각 비디오 하단 시계열 표시줄에 나타나는 시각적으로 호소력 있는 팝업을 제공.<br/>
-   -> 콘텐츠에서 주제가 어떻게 발전하는지 한 눈에 미리 볼 수 있게 함.<br/><br/>
+   -> snippets은 각 비디오 하단 시계열 표시줄에 나타나는 시각적으로 호소력 있는 팝업을 제공<br/>
+   -> 콘텐츠에서 주제가 어떻게 발전하는지 한 눈에 미리 볼 수 있게 함<br/><br/>
 - **사용자 연구 수행 목적** <br/><br/>
-    (1) snippets이 비디오 검색에서 사용자 검색 경험을 어떻게 변화시키는지,<br/><br/>
-    (2) snippets이 탐색과 정보 찾기를 어떻게 지원하는지를 평가하기 위함.<br/><br/>
+    (1) snippets이 비디오 검색에서 사용자 검색 경험을 어떻게 변화시키는지,  
+    (2) snippets이 탐색과 정보 찾기를 어떻게 지원하는지를 평가하기 위함<br/><br/>
    -> 설문을 통해 사용자들이 **컨텐츠 흐름 막대(CFB)가 비디오에서 관련 정보를 찾는 데 유용**하다는 결과를 얻음.
 ## - CCS Concepts
-• 정보 시스템 (Informational systems) -> 사용자 및 대화형 검색 (Users and interactive retrieval) ;  
-검색 인터페이스 (Search interfaces) ; 정보 추출 (informational extraction) ;   
+• 정보 시스템 (Informational systems) -> 사용자 및 대화형 검색 (Users and interactive retrieval) ; 검색 인터페이스 (Search interfaces) ;  
+정보 추출 (informational extraction) ;   
 
 • 응용 컴퓨팅 (Applied computing) -> 대화형 학습 환경 (Interactive learning environments)
 
@@ -35,7 +36,9 @@
 
 • 탐색 (navigation)  
 
-• 검색 개방형 교육 (search open education)  
+• 검색 개방형 교육 (search open education) 
+
+---
 ## 1. Introduction
 
 • 정보 검색 작업의 주요 병목 현상 중 하나
@@ -78,6 +81,7 @@ Why? 이용 가능한 교육용 온라인 비디오 수의 기하급수적인 �
 -> 비디오 내부와 비디오 전반에 걸쳐 더 많은 탐색을 하며, 
 -> 열린 비디오당 체류 시간을 줄인다는 것을 추가로 보여줌.
 
+---
 ## 2. Related Work
 제안한 도구 (Content Flow Bar, CFB)는 지능형 사용자 인터페이스 구성 요소와 인공지능을 사용
 -> 비디오의 효율적인 미리 보기 및 비선형 소비를 개선하려고 시도 
@@ -171,6 +175,7 @@ YouTube Chapters(비디오 세그먼트에 대한 텍스트 제목)도 최근에
 Ex. 기능으로서의 검색 비활성화 : 원인
   -> 참가자는 관련성 강조 표시 (CFB에서 노란색으로 표시)에 엑세스 불가 : 결과
   
+---
   ## 3. The Visual Navigation Tool
 • 정보 탐색을 용이하게 하는 새로운 시각적 미리 보기 도구인 ‘콘텐츠 흐름 막대 (CFB)’를 제시
 • ‘콘텐츠 흐름 막대 (the Content Flow Bar, CFB)’
@@ -193,6 +198,7 @@ CFB는 충분한 디테일을 제공할 수 있는 가벼운 도구임 !
 ### 3.2 Content Flow Bar (CFB)
 ### 3.3 Wikification to Extract Keywords
 
+---
 ## 4. User Evaluation
 
 ### 4.1 Controlled User Study
@@ -202,6 +208,7 @@ CFB는 충분한 디테일을 제공할 수 있는 가벼운 도구임 !
 ### 4.5 Click Stream and Interaction Log Analysis
 ### 4.6 Statistical Analysis
 
+---
 ## 5. Effect of CFB User Interaction Behaviours and Perceptions
 ### 5.1 Differences Across Tasks
 ### 5.2 Time Spent
@@ -210,6 +217,11 @@ CFB는 충분한 디테일을 제공할 수 있는 가벼운 도구임 !
 ### 5.5 Selecting Relevant Content
 ### 5.6 Users Perception of the CFB
 
+---
 ## 6. Discussion and Conclusions
+
+---
 ## 7. Acknowledgments
+
+---
 ## 8. References
