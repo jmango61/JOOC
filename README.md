@@ -824,7 +824,7 @@ iv) 선택한 세그먼트의 평균 지속 시간<br/><br/><br/>
 
 
 ---
-## 6. Discussion and Conclusions (토론 및 결론)
+## 6. Discussion and Conclusions (토론 및 결론)  <br/> <br/>
 
 **1. 콘텐츠 흐름 막대(CFB)에 대한 설계 이론적 근거와 발견 가능성 및 탐색 지원을 위한 이 새로운 상호 작용 기법의 효과를 설명하는 사용자 연구의 분석을 제시함.  <br/>**
 
